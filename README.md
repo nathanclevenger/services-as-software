@@ -24,10 +24,10 @@ quadrantChart
     x-axis Business Model --> Architecture
     y-axis Cloud --> AI
 
-    quadrant-1 Business-as-Code
-    quadrant-2 Infrastructure-as-Code
+    quadrant-1 Services-as-Software
+    quadrant-2 Business-as-Code
     quadrant-3 Software-as-a-Service
-    quadrant-4 Services-as-Software
+    quadrant-4 Infrastructure-as-Code
 ```
 
 
