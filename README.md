@@ -20,7 +20,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ```mermaid
 quadrantChart
-    title AI vs Cloud — Flipped X-Axis
+    title AI vs Cloud
     x-axis Architecture --> Business Model
     y-axis Cloud --> AI
 
